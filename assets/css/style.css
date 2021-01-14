@@ -72,7 +72,7 @@ a:hover {
   transition: 0.5s;
 }
 .social_media_icons i:hover {
-  color: #a1a1a1;
+  color: #1e5c0f;
 }
 .bottom-clip {
   transition: 0.5s;
@@ -126,6 +126,7 @@ a:hover {
   font-size: 0.8rem;
   padding: 7px;
   border-right: 1px solid rgba(212, 212, 212, 0.815);
+  overflow-wrap: anywhere;
 }
 
 /*--------------------------------------------------------------
@@ -322,8 +323,8 @@ a:hover {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #002366;
-  color: #fff;
+  background: #fff;
+  color: #1e5c0f;
   text-decoration: none;
 }
 
